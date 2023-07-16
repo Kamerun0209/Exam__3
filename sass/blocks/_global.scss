@@ -1,17 +1,26 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
 }
+
 @font-face {
-    font-family: DM Serif Display;
-    src: url(../../fonts/DMSerifDisplay-Regular.ttf);
+    font-family: "DM Serif Display";
+    src: url(../../fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf);
 }
+
 @font-face {
-    font-family: Public Sans;
-    src: url(../../fonts/PublicSans-VariableFont_wght.ttf);
+    font-family: "Public Sans";
+    src: url(../../fonts/Public_Sans/PublicSans-VariableFont_wght.ttf);
 }
-.container{
-    width: 1280px;
-    margin: 0 auto;
+
+.body {
+    background-color: #EDF3F8;
+
+    .container {
+        max-width: 1110px;
+        margin: 0 auto;
+    }
 }

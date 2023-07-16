@@ -7,30 +7,30 @@ Public Sans is a variable font with this axis:
   wght
 
 This means all the styles are contained in these files:
-  PublicSans-VariableFont_wght.ttf
-  PublicSans-Italic-VariableFont_wght.ttf
+  Public_Sans/PublicSans-VariableFont_wght.ttf
+  Public_Sans/PublicSans-Italic-VariableFont_wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
 in those cases you can use the static font files for Public Sans:
-  static/PublicSans-Thin.ttf
-  static/PublicSans-ExtraLight.ttf
-  static/PublicSans-Light.ttf
-  static/PublicSans-Regular.ttf
-  static/PublicSans-Medium.ttf
-  static/PublicSans-SemiBold.ttf
-  static/PublicSans-Bold.ttf
-  static/PublicSans-ExtraBold.ttf
-  static/PublicSans-Black.ttf
-  static/PublicSans-ThinItalic.ttf
-  static/PublicSans-ExtraLightItalic.ttf
-  static/PublicSans-LightItalic.ttf
-  static/PublicSans-Italic.ttf
-  static/PublicSans-MediumItalic.ttf
-  static/PublicSans-SemiBoldItalic.ttf
-  static/PublicSans-BoldItalic.ttf
-  static/PublicSans-ExtraBoldItalic.ttf
-  static/PublicSans-BlackItalic.ttf
+  Public_Sans/static/PublicSans-Thin.ttf
+  Public_Sans/static/PublicSans-ExtraLight.ttf
+  Public_Sans/static/PublicSans-Light.ttf
+  Public_Sans/static/PublicSans-Regular.ttf
+  Public_Sans/static/PublicSans-Medium.ttf
+  Public_Sans/static/PublicSans-SemiBold.ttf
+  Public_Sans/static/PublicSans-Bold.ttf
+  Public_Sans/static/PublicSans-ExtraBold.ttf
+  Public_Sans/static/PublicSans-Black.ttf
+  Public_Sans/static/PublicSans-ThinItalic.ttf
+  Public_Sans/static/PublicSans-ExtraLightItalic.ttf
+  Public_Sans/static/PublicSans-LightItalic.ttf
+  Public_Sans/static/PublicSans-Italic.ttf
+  Public_Sans/static/PublicSans-MediumItalic.ttf
+  Public_Sans/static/PublicSans-SemiBoldItalic.ttf
+  Public_Sans/static/PublicSans-BoldItalic.ttf
+  Public_Sans/static/PublicSans-ExtraBoldItalic.ttf
+  Public_Sans/static/PublicSans-BlackItalic.ttf
 
 Get started
 -----------
